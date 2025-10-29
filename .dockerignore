@@ -1,0 +1,13 @@
+.git
+.gitignore
+*.md
+!README.md
+.env
+vendor
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/views
+node_modules
+.DS_Store
+
