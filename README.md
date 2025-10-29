@@ -1,5 +1,7 @@
 # Instruções Simples - simpleshotel
 
+![Captura de Tela](public/Captura%20de%20tela%202025-10-29%20145656.png)
+
 ## Pré-requisitos
 - PHP 8.2+ instalado
 - SQLite habilitado no PHP
